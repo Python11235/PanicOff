@@ -1,0 +1,5 @@
+# Build output: ship the exe via GitHub Releases, not in the repo
+*.exe
+*.o
+*.obj
+*.pdb
