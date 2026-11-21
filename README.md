@@ -9,11 +9,11 @@ PanicOff is a tiny (24 KB) Windows background app. Press **Ctrl+Alt+Shift+A** an
 
 ## Features
 
-- ⚡ Instant power-off through the Windows kernel's own shutdown path
-- 👻 Runs invisibly: no window, no tray icon, no taskbar entry
-- 🔁 Starts automatically at login (optional)
-- 🪶 A single 24 KB exe: no installer, no dependencies, no admin rights needed
-- 🖱️ Install and uninstall by double-clicking
+-  Instant power-off through the Windows kernel's own shutdown path
+-  Runs invisibly: no window, no tray icon, no taskbar entry
+-  Starts automatically at login (optional)
+-  A single 24 KB exe: no installer, no dependencies, no admin rights needed
+-  Install and uninstall by double-clicking
 
 ## Install
 
